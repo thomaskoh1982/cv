@@ -1,0 +1,61 @@
+{
+  "version": "https://schema.openattestation.com/2.0/schema.json",
+  "data": {
+    "id": "cd23b087-d2f9-498e-a47c-f611e4d9c88e:string:VLC-IBFIT03-22-0715 KOH CHONG RONG",
+    "name": "9fd9d666-9942-4189-a99f-4ddccdc90838:string:DATA ANALYSIS FUNDAMENTALS USING MICROSOFT EXCEL (IBF)-P210423ZWR",
+    "recipient": {
+      "name": "29f8cd2b-da18-4ae0-a127-7d8a7e759a5b:string:KOH CHONG RONG",
+      "nric": "5fedc2b4-aa81-45d1-84e6-9d5c05796f01:string:S8219898I",
+      "email": "d3c67d34-a6cf-416a-923e-5b4717765692:string:KOHTHOMAS1982@GMAIL.COM"
+    },
+    "issuedOn": "2790c1dd-4d67-4728-81d4-8e29051bf642:string:2022-07-20T08:00:00+08:00",
+    "issuers": [
+      {
+        "id": "1484ee34-62da-4655-8dd4-0ed017254806:string:did:ethr:0xde7518e9fc310a4e5c4e7ebb0502883f6abc103b",
+        "issuerName": "e7e85498-1e7b-4f41-8a19-4eec60ed52ca:string:ICT, IBE, HealthCare",
+        "name": "2c7b3e4f-784a-4bf9-9ab4-a6a565721feb:string:NTUC LearningHub",
+        "revocation": {
+          "type": "6286b3aa-5330-45a7-a7fa-f2bfe1ea7848:string:REVOCATION_STORE",
+          "location": "6d6ea974-8b2c-4016-838c-85250e8d0ea2:string:0xed9dcd488638fbb70643a760740f1c4b53b2799a"
+        },
+        "identityProof": {
+          "type": "ead817b5-cc80-4469-8b3a-e10cd35a8c81:string:DNS-DID",
+          "key": "6d058c71-43bc-4ccd-8ec8-fa56d4dd82bf:string:did:ethr:0xde7518e9fc310a4e5c4e7ebb0502883f6abc103b#controller",
+          "location": "fc860f9e-6b79-4054-b614-124d0711912e:string:certstore.ntuclearninghub.com"
+        }
+      }
+    ],
+    "additionalData": {
+      "extra": {
+        "dateFrom": "0768d7cb-f2e0-46cd-81b6-ed53882fc675:string:2022-07-12T08:00:00+08:00",
+        "dateTo": "69038a35-e23c-4dda-8a7e-b8b0fd4963e3:string:2022-07-13T08:00:00+08:00"
+      },
+      "qrCode": "66e148b4-e0b9-4c99-9d10-912165a80a9b:string:data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKoAAACqCAIAAACyFEPVAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEhUlEQVR4nO2d0Y7cIAxFO1X//5e3b6tUGjZ2bMNU55zHEQEmV5YBY+f19fX1S6j8Pj0BOYnyo1F+NMqPRvnRKD8a5Uej/GiUH43yo/lz2+L1erWPGjlpvo57bZ+dz2qsVT+RsVZtsvOs/K8It+9Z60ej/GiUH829779SiQ6vfNvKd0bmEPGXFR8cWTdkn40w8Z7fovWjUX40yo8m5/uvZH1qtk3Xfn36jCG7X6/MbcXjtYLWj0b50Sg/mue+v4uKb+vy09kz/Mi6ZOIMvx2tH43yo1F+NOd9f9a/ZtcBXXv6nfcAtqH1o1F+NMqP5rnv78oM79qvR37vitNn4xGRZ7vap9D60Sg/GuVHk/P903vWyr4569d3/h6Z56rNKFo/GuVHo/xo7n3/dOW3Ln9ZIRtrOJX32I7Wj0b50Sg/mtn8/q68/NG77sWxIvf7Tp1V3KL1o1F+NMqP5nXrKqZz2bvO0ldk5zbdf2XcSr7iW7R+NMqPRvnR9Nz123kGPl3bJ/J7tv9Vn5Xagi1rL60fjfKjUX409/v+5ZPDufIT40b6nI41TNQN9MxfnqD8aJQfzXPf/08vhf3rqn1krOweOtJPtk1knqv5HL8DofWjUX40yo/mebw/2yY0m4F+rnTl1E3k/mXn2aKF1o9G+dEoP5qc779SOa/O9rPiVLxg+j9OryG+0frRKD8a5UfTH+9f0ZVHN1GzbyKnoCteMHr/QOtHo/xolB9Nfz3/6Xq62XGzz3bl91fWHxU885coyo9G+dE8r+2zs87uRH5/dqzK2f6Ev2/pU+tHo/xolB9Nz12/yLNXdtbDiXCqPs/O7yO8RetHo/xolB9NLt5fOQOYuOse6X+iPk+E6fm3rKu0fjTKj0b50fTX8++6TzfxfZ2JekRdfvpInqTWj0b50Sg/mp59/4qJmnfZflbzmfbZE3n85vdLJ8qPRvnR9Of3R/o5dW/gf7l/kMV6/vIE5Uej/Gj69/1d8fVT+f0VKjWJJ9rcovWjUX40yo+mv57/xL2/1bMVdsb1r+ysO+SZv/yE8qNRfjSzOX6RPldM1N5f9TO9FunKO+h6/99o/WiUH43yo+mv67diIvcv66crOQWV/rvuElbGeovWj0b50Sg/mue+f+IO/MSzqzZXutYQ2WcrsXzv+UsV5Uej/GjO7/uzba50nQGMfi/nhz6z76S9JqDWj0b50Sg/mp67fqUZbPS1XbH/Soy/Evtvb6/1o1F+NMqPpr+uX4Sub95EfGHlW0ET+YQrjtQh1vrRKD8a5UeTO/P/hFp7Xf646+5h1/3B7LttObDR+tEoPxrlR9N/1+9K19l4hE/I0V9RifdH+rS2jzxB+dEoP5p9d/0i7Kyfs/McIjLPFRN5Dd9o/WiUH43yo/ks338lG5tfPRvpM9smMtaViVrCLeclWj8a5Uej/Gie+/6JBIGdNe+maw1NxC+y496i9aNRfjTKj+b5d/wqVGLzO/PyJ5iuIXjFM3/5CeVHo/xozuf3y0G0fjTKj0b50Sg/GuVHo/xolB+N8qNRfjTKj+YvPajTgkRW7HoAAAAASUVORK5CYII="
+    },
+    "$template": {
+      "name": "ca29bd0b-8076-4eed-a18f-05d2985034e2:string:NTUC-2021-18",
+      "type": "538836e5-dc40-4805-8a44-bcaaf79a93a1:string:EMBEDDED_RENDERER",
+      "url": "c9a9b1cf-66a4-4693-b6b4-fc677a1b2d6c:string:https://opencerts.ntuclearninghub.com"
+    }
+  },
+  "schema": "https://raw.githubusercontent.com/OpenCerts/open-certificate/master/schema/transcripts/2.0/schema.json",
+  "signature": {
+    "type": "SHA3MerkleProof",
+    "targetHash": "036436f4366b53844d104cf7c0a61eab2780b522183b507646c383f51785a6cd",
+    "proof": [
+      "3a0b55a2d72ac63658524f933230784c9e4146ac7a16f0fcac65ff17817e341f",
+      "218c59ab0c4286c99216b9608255a89ce1351d1da4877eeedd44ece22452d768",
+      "466a2fa09f4dc0f45b7516bfab52e65d937deaf711d7b85ac86088e2fa5df3cf"
+    ],
+    "merkleRoot": "91b6ea709ae8e756a937d4ce2206bf301e502e47dc16f1b743bff857b1bc4fd1"
+  },
+  "proof": [
+    {
+      "type": "OpenAttestationSignature2018",
+      "created": "2022-07-20T01:08:16.424Z",
+      "proofPurpose": "assertionMethod",
+      "verificationMethod": "did:ethr:0xde7518e9fc310a4e5c4e7ebb0502883f6abc103b#controller",
+      "signature": "0x7439a1ef60e8a72a549bace8f2f1616953a8a3fffab1c7548bf928de6fbb78df2a68e20837bfaee756885583237e43dc7995f7dc50e2ef11aaab25edad4601aa1b"
+    }
+  ]
+}
